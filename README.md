@@ -2,10 +2,11 @@
 
 ## Installation
 
-- Download Zip
+- Download Zip - [Click here to download](https://github.com/gaganbiswas/G2G-Auto-Account-Delivery-Bot/archive/refs/heads/main.zip)
 - Enter your `refresh_token` and `active_device_token` cookies into `Settings.json` file, entering `G2GSESID_V4` is not necessary.
 - Access the cookie by going to www.g2g.com then pressing CTRL + SHIFT + I -> Application -> Cookies -> https://www.g2g.com
 - The `Accounts.json` holds your accounts to be sold.
+- Once the `Settings.json` and `Accounts.json` are filled with the related informations, run the application.
 
 ```
 [
